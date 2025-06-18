@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/phidgets_drivers-release
+release_repo_url: git@github.com:revyos-ros/phidgets_drivers-release.git
 tracks:
   dashing:
     actions:
