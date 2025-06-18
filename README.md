@@ -1,3 +1,43 @@
+## phidgets_drivers (jazzy) - 2.4.0-2
+
+The packages in the `phidgets_drivers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy phidgets_drivers --override-release-repository-push-url git@github.com:revyos-ros/phidgets_drivers-release.git` on `Wed, 18 Jun 2025 07:15:55 -0000`
+
+These packages were released:
+- `libphidget22`
+- `phidgets_accelerometer`
+- `phidgets_analog_inputs`
+- `phidgets_analog_outputs`
+- `phidgets_api`
+- `phidgets_digital_inputs`
+- `phidgets_digital_outputs`
+- `phidgets_drivers`
+- `phidgets_gyroscope`
+- `phidgets_high_speed_encoder`
+- `phidgets_ik`
+- `phidgets_magnetometer`
+- `phidgets_motors`
+- `phidgets_msgs`
+- `phidgets_spatial`
+- `phidgets_stepper`
+- `phidgets_temperature`
+
+Version of package(s) in repository `phidgets_drivers`:
+
+- upstream repository: https://github.com/ros-drivers/phidgets_drivers.git
+- release repository: https://github.com/revyos-ros/phidgets_drivers-release.git
+- rosdistro version: `2.4.0-1`
+- old version: `2.4.0-1`
+- new version: `2.4.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## phidgets_drivers (jazzy) - 2.4.0-1
 
 The packages in the `phidgets_drivers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy phidgets_drivers --override-release-repository-push-url git@github.com:revyos-ros/phidgets_drivers-release.git` on `Wed, 18 Jun 2025 07:10:35 -0000`
