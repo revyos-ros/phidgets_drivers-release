@@ -2,6 +2,19 @@
 Changelog for package phidgets_digital_outputs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.4.0 (2025-05-30)
+------------------
+* Merge pull request `#191 <https://github.com/ros-drivers/phidgets_drivers/issues/191>`_ from mintar/remove-ament-target-dependencies
+  [kilted] Update deprecated call to ament_target_dependencies
+* Update to C++ standard 17
+* [kilted] Update deprecated call to ament_target_dependencies
+* Contributors: Martin Günther
+
+2.3.4 (2025-05-19)
+------------------
+* Upgrade to CMake 3.8, add file depend (`#189 <https://github.com/ros-drivers/phidgets_drivers/issues/189>`_)
+* Contributors: Martin Günther
+
 2.3.3 (2024-03-13)
 ------------------
 * Add support for VINT networkhub (`#172 <https://github.com/ros-drivers/phidgets_drivers/issues/172>`_)
